@@ -7,5 +7,6 @@ int main()
     cout << "Hello world!" << endl;
     lista a;
     a.agregar();
+    cout << "Hola";
     return 0;
 }
